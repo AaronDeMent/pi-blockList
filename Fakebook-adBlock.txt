@@ -1,9 +1,7 @@
 b-api.facebook.com
-
 scontent-atl3-2.xx.fbcdn.net
 scontent-atl3-1.xx.fbcdn.net
 fbcdn.net
-
 fbstatic-a.akamaihd.net
 fbstatic-b.akamaihd.net
 fbstatic-c.akamaihd.net
@@ -57,7 +55,6 @@ fbcdn-profile-w.akamaihd.net
 fbcdn-profile-x.akamaihd.net
 fbcdn-profile-y.akamaihd.net
 fbcdn-profile-z.akamaihd.net
-
 fbcdn-sphotos-a-a.akamaihd.net
 fbcdn-sphotos-b-a.akamaihd.net
 fbcdn-sphotos-c-a.akamaihd.net
@@ -84,7 +81,6 @@ fbcdn-sphotos-w-a.akamaihd.net
 fbcdn-sphotos-x-a.akamaihd.net
 fbcdn-sphotos-y-a.akamaihd.net
 fbcdn-sphotos-z-a.akamaihd.net
-
 fbcdn-creative-a.akamaihd.net
 fbcdn-creative-b.akamaihd.net
 fbcdn-creative-c.akamaihd.net
@@ -111,7 +107,6 @@ fbcdn-creative-w.akamaihd.net
 fbcdn-creative-x.akamaihd.net
 fbcdn-creative-y.akamaihd.net
 fbcdn-creative-z.akamaihd.net
-
 fbexternal-a.akamaihd.net
 fbexternal-b.akamaihd.net
 fbexternal-c.akamaihd.net
