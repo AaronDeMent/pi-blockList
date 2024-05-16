@@ -1,6 +1,7 @@
 b-api.facebook.com
 
 scontent-atl3-2.xx.fbcdn.net
+scontent-atl3-1.xx.fbcdn.net
 fbcdn.net
 
 fbstatic-a.akamaihd.net
