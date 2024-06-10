@@ -1,6 +1,10 @@
 
 # Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
 
+#Found attacks 
+0.0.0.0 107.151.182.62
+#end Found attacks 
+
 0000000000000000000000.com
 0rg.us
 0x.no
